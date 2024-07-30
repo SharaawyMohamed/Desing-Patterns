@@ -1,0 +1,14 @@
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.exe
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.deps.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.runtimeconfig.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\bin\Debug\net8.0\Singleton.pdb
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfoInputs.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.AssemblyInfo.cs
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.csproj.CoreCompileInputs.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\refint\Singleton.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.pdb
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\Singleton.genruntimeconfig.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Singleton\obj\Debug\net8.0\ref\Singleton.dll
