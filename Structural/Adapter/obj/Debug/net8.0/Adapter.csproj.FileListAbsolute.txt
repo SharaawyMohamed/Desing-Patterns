@@ -1,0 +1,15 @@
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfoInputs.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.AssemblyInfo.cs
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.csproj.CoreCompileInputs.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.sourcelink.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.exe
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.deps.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.runtimeconfig.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\bin\Debug\net8.0\Adapter.pdb
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\refint\Adapter.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.pdb
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\Adapter.genruntimeconfig.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Structural\Adapter\obj\Debug\net8.0\ref\Adapter.dll

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "36O2rWPx3/VGJsxtV18hEuW8QtCwAXVz0xorrKV/H/ODnBc0EYn1sH8dqDgThCwT38fK6sG7q98EcJ79Um1WkQ==",
+  "dgSpecHash": "01+3TR+5u2fYYUZv3tBrfy9ypbwguNB6hCoXGCNV72yXXL3t4bCSBBa2PvXT2VxxgxqCraG9Le5iPYIohxiBoQ==",
   "success": true,
-  "projectFilePath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Adapter\\Adapter.csproj",
+  "projectFilePath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Structural\\Adapter\\Adapter.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

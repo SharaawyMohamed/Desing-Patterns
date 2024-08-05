@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Adapter\\Adapter.csproj",
+      "projectUniqueName": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Structural\\Adapter\\Adapter.csproj",
       "projectName": "Adapter",
-      "projectPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Adapter\\Adapter.csproj",
+      "projectPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Structural\\Adapter\\Adapter.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Adapter\\obj\\",
+      "outputPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Structural\\Adapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

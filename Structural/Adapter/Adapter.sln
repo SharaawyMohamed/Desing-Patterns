@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34622.214
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Adapter", "Adapter.csproj", "{DCDC7102-586D-4ABC-A99F-9DEA2AFF1CC3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter.csproj", "{DCDC7102-586D-4ABC-A99F-9DEA2AFF1CC3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PayrollSystem", "..\PayrollSystem\PayrollSystem.csproj", "{7CC14D4F-D0F0-454E-8D9C-911C567DEFD0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{DCDC7102-586D-4ABC-A99F-9DEA2AFF1CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DCDC7102-586D-4ABC-A99F-9DEA2AFF1CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DCDC7102-586D-4ABC-A99F-9DEA2AFF1CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CC14D4F-D0F0-454E-8D9C-911C567DEFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CC14D4F-D0F0-454E-8D9C-911C567DEFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CC14D4F-D0F0-454E-8D9C-911C567DEFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CC14D4F-D0F0-454E-8D9C-911C567DEFD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
