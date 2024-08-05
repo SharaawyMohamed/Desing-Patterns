@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Singleton\\Singleton.csproj": {}
+    "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Singleton\\Singleton.csproj": {}
   },
   "projects": {
-    "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Singleton\\Singleton.csproj": {
+    "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Singleton\\Singleton.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Singleton\\Singleton.csproj",
+        "projectUniqueName": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Singleton\\Singleton.csproj",
         "projectName": "Singleton",
-        "projectPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Singleton\\Singleton.csproj",
+        "projectPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Singleton\\Singleton.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Singleton\\obj\\",
+        "outputPath": "F:\\Esam_Abd_Elnabi\\Design_Patterns\\DesignPatterns\\Desing-Patterns\\Singleton\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",

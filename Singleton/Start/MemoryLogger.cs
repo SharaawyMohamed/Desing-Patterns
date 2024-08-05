@@ -12,16 +12,28 @@ namespace Singleton.Start
         private int _InfoCount;
         private int _WarningCount;
         private int _ErrorCount;
-        private static readonly MemoryLogger _instance = new MemoryLogger();
+        // private static MemoryLogger _instance = new MemoryLogger();// Early Initialization(We use it when our object is simple and not use huge data sources)--> but is not prefered.
+        private static MemoryLogger _instance;
         private List<LogMessage> _logs = new List<LogMessage>();
         private MemoryLogger()
         {
 
         }
+        private static object _lock = new();
         public static MemoryLogger Instance
         {
             get
             {
+                if (_instance is null)
+                {
+                    lock (_lock)
+                    {// we use lock because multithreading (may pe many object come at a same time the each of them will create new object of our instance)
+                        if (_instance is null)
+                        {
+                            _instance = new MemoryLogger();
+                        }
+                    }
+                }
                 return _instance;
             }
 
