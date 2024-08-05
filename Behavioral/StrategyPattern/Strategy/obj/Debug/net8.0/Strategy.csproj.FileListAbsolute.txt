@@ -1,0 +1,15 @@
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\bin\Debug\net8.0\Strategy.exe
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\bin\Debug\net8.0\Strategy.deps.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\bin\Debug\net8.0\Strategy.runtimeconfig.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\bin\Debug\net8.0\Strategy.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\bin\Debug\net8.0\Strategy.pdb
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.GeneratedMSBuildEditorConfig.editorconfig
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfoInputs.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.AssemblyInfo.cs
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.csproj.CoreCompileInputs.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.sourcelink.json
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\refint\Strategy.dll
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.pdb
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\Strategy.genruntimeconfig.cache
+F:\Esam_Abd_Elnabi\Design_Patterns\DesignPatterns\Desing-Patterns\Behavioral\StrategyPattern\Strategy\obj\Debug\net8.0\ref\Strategy.dll
