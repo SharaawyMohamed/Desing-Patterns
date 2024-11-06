@@ -1,0 +1,15 @@
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.exe
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.deps.json
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.runtimeconfig.json
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.dll
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\bin\Debug\net8.0\DecoratorPattern.pdb
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfoInputs.cache
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.AssemblyInfo.cs
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.csproj.CoreCompileInputs.cache
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.sourcelink.json
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.dll
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\refint\DecoratorPattern.dll
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.pdb
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\DecoratorPattern.genruntimeconfig.cache
+F:\GitHubRepositories\Desing-Patterns\Structural\DecoratorPattern\obj\Debug\net8.0\ref\DecoratorPattern.dll
