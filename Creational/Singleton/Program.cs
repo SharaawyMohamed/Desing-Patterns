@@ -1,4 +1,5 @@
-﻿using Singleton.Start;
+﻿using Singleton.CountSingleton;
+using Singleton.Start;
 
 namespace Singleton
 {
@@ -7,12 +8,27 @@ namespace Singleton
         static MemoryLogger logger;
         static void Main(string[] args)
         {
-            AssignVoucher("sharawy275@gmail.com", "ABC123");
+            //AssignVoucher("sharawy275@gmail.com", "ABC123");
 
-            UserVoucher("ABC123");
-            logger.ShowLog();
-            Console.ReadKey();
-        }
+            //UserVoucher("ABC123");
+            //logger.ShowLog();
+            //Console.ReadKey();
+
+            var instanceOne = Counter.GetInstance();
+            instanceOne.Increment();
+            instanceOne.Increment();
+            instanceOne.Increment();
+            instanceOne.Increment();
+            Console.WriteLine("Instance One: " + instanceOne.count.ToString());
+			var instanceTwo = Counter.GetInstance();
+
+			Console.WriteLine("Instance Two: " + instanceTwo.count.ToString());
+
+
+			Console.WriteLine(instanceTwo.count++);
+
+
+		}
         static void AssignVoucher(string email,string voucher)
         {
             logger = MemoryLogger.Instance;
@@ -30,5 +46,7 @@ namespace Singleton
             // logic here
             logger.LogInfo($"{voucher} is used");
         }
+
+       
     }
 }
