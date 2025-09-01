@@ -9,16 +9,18 @@ namespace Singleton.CountSingleton
 {
 	public class Counter
 	{
-		public  int count { get; set; }
-		private static Counter instance= new Counter();
-		private Counter() {
+		public int count { get; set; }
+		private static Counter instance = null;
+		private Counter()
+		{
 			count = 0;
 		}
 
 		public void Increment()
 		{
-			lock (instance){
-				instance.count++;
+			lock (instance)
+			{
+				count++;
 			}
 		}
 
@@ -26,13 +28,13 @@ namespace Singleton.CountSingleton
 		{
 			lock (instance)
 			{
-				instance.count--;
+				count--;
 			}
 		}
 
 		public static Counter GetInstance()
 		{
-			return instance;
+			return instance == null ? new Counter() : instance;
 		}
 	}
 }
